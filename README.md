@@ -14,11 +14,11 @@ represents 1 minute.
 
 One can be seen [here](http://uniqueclocks.co.uk/media/berlin~clock.jpg~1.gif)
 
-## The brief
+## The brief of the berlin clock
 
 We have created a number of acceptance tests for the Berlin Clock and your challenge is to get them passing.
 
-## Some hints
+## Some hints are here
 If you are new to Gradle, it may be worth spending 10 minutes reading a high level summary.  We are using the Gradle
 Wrapper so `gradlew` from the command line should download everything you need.  Most modern IDEs support Gradle projects.
 
